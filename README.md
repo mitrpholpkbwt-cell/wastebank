@@ -1,2 +1,0 @@
-# wastebank
-bank
